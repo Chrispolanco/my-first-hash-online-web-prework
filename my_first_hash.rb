@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {}
   
-  my_hash = {"location"
+  my_hash = {"location" => "Los Angeles"}
 end
 
 
